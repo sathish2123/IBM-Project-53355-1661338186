@@ -6,10 +6,16 @@
   </div>
  <br> 
 
-### Team Members: Mohammed Hussain A, Gopinath k, Sathish k, Vasanth k
+<h2>Team Members:</h2>
+<ol type="1">
+  <li>Mohammed Hussain A</li>
+  <li>Gopinath k</li>
+  <li>Sathish k</li>
+  <li> Vasanth k</li>
+  
 
 ### Abstract
-Students are often worried about their chances of admission to University. The aim of this project is to help students in shortlisting universities with their profiles. The predicted output gives them a fair idea about their admission chances in a particular university. This analysis should also help students who are currently preparing or will be preparing to get a better idea.
+     Students are often worried about their chances of admission to University. The aim of this project is to help students in shortlisting universities with their profiles. The predicted output gives them a fair idea about their admission chances in a particular university. This analysis should also help students who are currently preparing or will be preparing to get a better idea.
 
 
 ### Project Objectives
@@ -22,5 +28,10 @@ Students are often worried about their chances of admission to University. The a
 
 ### Architecture Diagram
 ![Screenshot](https://github.com/IBM-EPBL/IBM-Project-1635-1658406225/blob/master/Images/ArchitectureDiagram.png)
-
-
+  <br><br>
+ 
+<p float="middle" align="center">
+  <h4>Graph Animation</h4>
+    <img src="https://miro.medium.com/max/1400/0*7-8r0x-nRpuJm7bw.gif" width=700 height=350>
+ 
+</p>
